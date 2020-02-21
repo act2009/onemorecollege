@@ -62,7 +62,6 @@
 	}
 	.right-title{
 		width: 100%;
-
 		line-height: 1.4;
 		font-size: 30rpx;
 		font-weight: bold;

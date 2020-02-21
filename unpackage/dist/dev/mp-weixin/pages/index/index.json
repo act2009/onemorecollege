@@ -5,6 +5,7 @@
     "icons": "/components/common/Icons",
     "card": "/components/common/Card",
     "single-commodity-list": "/components/common/SingleCommodityList",
-    "thematic-list": "/components/common/ThematicList"
+    "thematic-list": "/components/common/ThematicList",
+    "commondity-list": "/components/common/CommondityList"
   }
 }

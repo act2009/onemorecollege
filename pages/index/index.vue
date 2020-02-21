@@ -11,7 +11,9 @@
          <ThematicList></ThematicList>
 		<Card cardTitle="新上好课"></Card>
 		<SingleCommodityList></SingleCommodityList>
-			
+		
+		<Card cardTitle="另一个课程样式"></Card>
+			<CommondityList></CommondityList>
 	</view>
 	
 </template>
@@ -22,6 +24,7 @@
 	import Card        from '@/components/common/Card.vue'
 	import SingleCommodityList from '@/components/common/SingleCommodityList.vue'
 	import ThematicList    from '@/components/common/ThematicList.vue'
+	import CommondityList  from '@/components/common/CommondityList.vue'
 	export default {
 		data() {
 			return {
@@ -33,7 +36,8 @@
 			Icons,
 			Card,
 			SingleCommodityList,
-			ThematicList
+			ThematicList,
+			CommondityList
 		
 		},
 		onLoad() {
