@@ -1,0 +1,1 @@
+<view class="singleCommodityList"><single-commodity vue-id="1" dataList="{{singleCommodityList}}" bind:__l="__l"></single-commodity></view>

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "index-swiper": "/components/index/IndexSwiper",
+    "icons": "/components/common/Icons",
+    "card": "/components/common/Card",
+    "single-commodity-list": "/components/common/SingleCommodityList"
+  }
+}

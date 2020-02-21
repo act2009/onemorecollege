@@ -7,6 +7,10 @@
 .font-active-color{
 	color: #49DBFB;
 }
+/*默认灰色*/
+.color999{
+	color: #999999;
+}
 /* 背景颜色 */
 .bg-color{
 	background-color: #f2f4f7;

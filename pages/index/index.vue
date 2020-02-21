@@ -5,7 +5,9 @@
 		<IndexSwiper></IndexSwiper>
 		<Icons></Icons>
 		
-		<Card></Card>
+		<Card cardTitle="推荐课程"></Card>
+		<SingleCommodityList></SingleCommodityList>
+		<Card cardTitle="a"></Card>
 		
 	</view>
 	
@@ -15,7 +17,7 @@
 	import IndexSwiper from '@/components/index/IndexSwiper.vue'
 	import Icons       from '@/components/common/Icons.vue'
 	import Card        from '@/components/common/Card.vue'
-	
+	import SingleCommodityList from '@/components/common/SingleCommodityList.vue'
 	
 	export default {
 		data() {
@@ -26,7 +28,8 @@
 		components:{
 			IndexSwiper,
 			Icons,
-			Card
+			Card,
+			SingleCommodityList
 		
 		},
 		onLoad() {

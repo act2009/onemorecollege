@@ -1,0 +1,27 @@
+
+.card.data-v-2c4f5f36{
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		padding: 20rpx 0;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: row;
+		        flex-direction: row;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		        align-items: center;
+}
+.card-name.data-v-2c4f5f36{
+		padding:20rpx 0;
+		font-size: 32rpx;
+		font-weight: bold;
+}
+.card-nav.data-v-2c4f5f36{
+        margin-left: auto;
+		margin-right: 0;
+		padding:20rpx 0;
+		font-size: 28rpx;
+		color: #999999;
+}
+
