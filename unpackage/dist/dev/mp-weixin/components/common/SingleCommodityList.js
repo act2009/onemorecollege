@@ -114,7 +114,7 @@ __webpack_require__.r(__webpack_exports__);
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var SingleCommodity = function SingleCommodity() {return __webpack_require__.e(/*! import() | components/common/SingleCommodity */ "components/common/SingleCommodity").then(__webpack_require__.bind(null, /*! ./SingleCommodity.vue */ 47));};var _default =
+Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var SingleCommodity = function SingleCommodity() {return __webpack_require__.e(/*! import() | components/common/SingleCommodity */ "components/common/SingleCommodity").then(__webpack_require__.bind(null, /*! ./SingleCommodity.vue */ 52));};var _default =
 
 
 

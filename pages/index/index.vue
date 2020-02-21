@@ -7,8 +7,11 @@
 		
 		<Card cardTitle="推荐课程"></Card>
 		<SingleCommodityList></SingleCommodityList>
-		<Card cardTitle="a"></Card>
-		
+		<Card cardTitle="专题"></Card>
+         <ThematicList></ThematicList>
+		<Card cardTitle="新上好课"></Card>
+		<SingleCommodityList></SingleCommodityList>
+			
 	</view>
 	
 </template>
@@ -18,7 +21,7 @@
 	import Icons       from '@/components/common/Icons.vue'
 	import Card        from '@/components/common/Card.vue'
 	import SingleCommodityList from '@/components/common/SingleCommodityList.vue'
-	
+	import ThematicList    from '@/components/common/ThematicList.vue'
 	export default {
 		data() {
 			return {
@@ -29,7 +32,8 @@
 			IndexSwiper,
 			Icons,
 			Card,
-			SingleCommodityList
+			SingleCommodityList,
+			ThematicList
 		
 		},
 		onLoad() {

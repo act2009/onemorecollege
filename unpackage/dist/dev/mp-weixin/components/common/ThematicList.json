@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "thematic": "/components/common/Thematic"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="thematicList"><thematic vue-id="1" dataList="{{thematicList}}" bind:__l="__l"></thematic></view>

@@ -4,6 +4,7 @@
     "index-swiper": "/components/index/IndexSwiper",
     "icons": "/components/common/Icons",
     "card": "/components/common/Card",
-    "single-commodity-list": "/components/common/SingleCommodityList"
+    "single-commodity-list": "/components/common/SingleCommodityList",
+    "thematic-list": "/components/common/ThematicList"
   }
 }
