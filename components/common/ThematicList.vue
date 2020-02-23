@@ -13,21 +13,21 @@
 				thematicList:[
 					{
 						id:1,
-						imgUrl:"../../static/img/ad1.png",
+						imgUrl:"../../static/img/shop.jpg",
 						url:"",
 						description:"专题"
 						
 					},
 					{
 						id:2,
-						imgUrl:"../../static/img/ad2.png",
+						imgUrl:"../../static/img/shop.jpg",
 						url:"",
 						description:"专题"
 						
 					},
 					{
 						id:3,
-						imgUrl:"../../static/img/ad3.jpg",
+						imgUrl:"../../static/img/shop.jpg",
 						url:"",
 						description:"专题"
 						

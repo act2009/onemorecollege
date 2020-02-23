@@ -19,18 +19,18 @@
 
 <style scoped>
 	.thematic{
-		display: flex;
+/* 		display: flex;
 		flex-wrap: wrap;
-		align-items: center;
-		text-align: center;
+		align-items: center; */
+
 
 	}
 	.thematic-item{
-		width: 100%;
+		
 	}
 	.thematicitem-img{
-		width: 690rpx;
-		height: 270rpx;
+		width: 100%;
+		height: 350rpx;
 		padding-bottom: 10rpx;
 	}
 	
