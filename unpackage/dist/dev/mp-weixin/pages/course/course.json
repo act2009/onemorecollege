@@ -1,7 +1,11 @@
 {
   "usingComponents": {
-    "introduction": "/components/course/Introduction",
-    "tabs": "/components/wiszx-tabs/tabs",
-    "tab-pane": "/components/wiszx-tabs/tabPane"
+    "header": "/components/course/Header",
+    "s-tabs": "/components/s-ui/s-tabs/index",
+    "s-tab": "/components/s-ui/s-tab/index",
+    "course-intro": "/components/course/CourseIntro",
+    "catalog": "/components/common/Catalog",
+    "comments": "/components/common/Comments",
+    "post-data": "/components/course/PostData"
   }
 }

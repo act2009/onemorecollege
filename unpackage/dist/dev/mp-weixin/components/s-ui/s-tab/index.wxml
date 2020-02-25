@@ -1,0 +1,1 @@
+<view class="{{['s-tab-wrap _div',(isActive)?'is-active':'']}}"><view class="s-tab-panel _div"><slot></slot></view></view>

@@ -1,5 +1,5 @@
 {
-  "navigationBarTitleText": "uni-app",
+  "navigationBarTitleText": "多一头学院",
   "usingComponents": {
     "index-swiper": "/components/index/IndexSwiper",
     "icons": "/components/common/Icons",

@@ -217,7 +217,7 @@ export default {
   &-content-wrap {
     display: flex;
 	line-height: 1.42857143;
-	padding: 40rpx 0;
+	// padding: 40rpx 0;
     // white-space: normal;
     s-tab {
       width: 100%;

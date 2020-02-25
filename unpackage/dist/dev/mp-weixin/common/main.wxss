@@ -1511,6 +1511,52 @@ radio-group label, checkbox-group label{
     -webkit-transform: translateY(50%);
             transform: translateY(50%);
 }
+@font-face {font-family: "iconfont";
+  src: url('data:application/x-font-woff2;charset=utf-8;base64,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') format('woff2');
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-home:before {
+  content: "\E607";
+}
+.icon-icon_setting:before {
+  content: "\EB9D";
+}
+.icon-icon_signal:before {
+  content: "\EB9E";
+}
+.icon-icon_work:before {
+  content: "\EBA1";
+}
+.icon-icon_people_fill:before {
+  content: "\EBAC";
+}
+.icon-icon_work_fill:before {
+  content: "\EBB1";
+}
+.icon-icon-test:before {
+  content: "\E63A";
+}
+.icon-icon-test1:before {
+  content: "\E640";
+}
+.icon-icon-test2:before {
+  content: "\E644";
+}
+.icon-icon-test3:before {
+  content: "\E657";
+}
+.icon-icon-test4:before {
+  content: "\E658";
+}
+.icon-Homehomepagemenu:before {
+  content: "\E9CE";
+}
 /*全局css文件*/
 /* 默认字体颜色 */
 .font-color{
@@ -1527,6 +1573,10 @@ radio-group label, checkbox-group label{
 /* 背景颜色 */
 .bg-color{
 	background-color: #f2f4f7;
+}
+/*body属性*/
+page{
+	line-height: 1.42857143;
 }
 
 
