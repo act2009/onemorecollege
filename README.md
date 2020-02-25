@@ -67,3 +67,9 @@ mobile端分析
 
 
 
+课程页course：
+
+10.课程详情
+         名称：Introduction
+         封装：是
+         描述：

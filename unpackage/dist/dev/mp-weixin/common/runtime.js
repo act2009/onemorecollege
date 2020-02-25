@@ -104,11 +104,11 @@
 /******/
 /******/
 /******/ 		// mini-css-extract-plugin CSS loading
-/******/ 		var cssChunks = {"components/common/Card":1,"components/common/Icons":1,"components/index/IndexSwiper":1,"components/common/Commodity":1,"components/common/SingleCommodity":1,"components/common/Thematic":1};
+/******/ 		var cssChunks = {"components/common/Card":1,"components/common/Icons":1,"components/index/IndexSwiper":1,"components/course/Introduction":1,"components/wiszx-tabs/tabPane":1,"components/wiszx-tabs/tabs":1,"components/common/Commodity":1,"components/common/SingleCommodity":1,"components/common/Thematic":1};
 /******/ 		if(installedCssChunks[chunkId]) promises.push(installedCssChunks[chunkId]);
 /******/ 		else if(installedCssChunks[chunkId] !== 0 && cssChunks[chunkId]) {
 /******/ 			promises.push(installedCssChunks[chunkId] = new Promise(function(resolve, reject) {
-/******/ 				var href = "" + ({"components/common/Card":"components/common/Card","components/common/CommondityList":"components/common/CommondityList","components/common/Icons":"components/common/Icons","components/common/SingleCommodityList":"components/common/SingleCommodityList","components/common/ThematicList":"components/common/ThematicList","components/index/IndexSwiper":"components/index/IndexSwiper","components/common/Commodity":"components/common/Commodity","components/common/SingleCommodity":"components/common/SingleCommodity","components/common/Thematic":"components/common/Thematic"}[chunkId]||chunkId) + ".wxss";
+/******/ 				var href = "" + ({"components/common/Card":"components/common/Card","components/common/CommondityList":"components/common/CommondityList","components/common/Icons":"components/common/Icons","components/common/SingleCommodityList":"components/common/SingleCommodityList","components/common/ThematicList":"components/common/ThematicList","components/index/IndexSwiper":"components/index/IndexSwiper","components/course/Introduction":"components/course/Introduction","components/wiszx-tabs/tabPane":"components/wiszx-tabs/tabPane","components/wiszx-tabs/tabs":"components/wiszx-tabs/tabs","components/common/Commodity":"components/common/Commodity","components/common/SingleCommodity":"components/common/SingleCommodity","components/common/Thematic":"components/common/Thematic"}[chunkId]||chunkId) + ".wxss";
 /******/ 				var fullhref = __webpack_require__.p + href;
 /******/ 				var existingLinkTags = document.getElementsByTagName("link");
 /******/ 				for(var i = 0; i < existingLinkTags.length; i++) {

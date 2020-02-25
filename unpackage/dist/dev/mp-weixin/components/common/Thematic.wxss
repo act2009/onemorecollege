@@ -1,22 +1,15 @@
 
 .thematic.data-v-41cab14f{
-	display: -webkit-box;
-	display: -webkit-flex;
-	display: flex;
-	-webkit-flex-wrap: wrap;
-	        flex-wrap: wrap;
-	-webkit-box-align: center;
-	-webkit-align-items: center;
-	        align-items: center;
-	text-align: center;
+/* 		display: flex;
+		flex-wrap: wrap;
+		align-items: center; */
 }
 .thematic-item.data-v-41cab14f{
-	width: 100%;
 }
 .thematicitem-img.data-v-41cab14f{
-	width: 690rpx;
-	height: 270rpx;
-	padding-bottom: 10rpx;
+		width: 100%;
+		height: 350rpx;
+		padding-bottom: 10rpx;
 }
-
+	
 

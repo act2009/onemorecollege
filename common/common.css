@@ -15,3 +15,7 @@
 .bg-color{
 	background-color: #f2f4f7;
 }
+/*body属性*/
+body{
+	line-height: 1.42857143;
+}

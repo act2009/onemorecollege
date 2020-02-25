@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "introduction": "/components/course/Introduction",
+    "tabs": "/components/wiszx-tabs/tabs",
+    "tab-pane": "/components/wiszx-tabs/tabPane"
+  }
+}
