@@ -7,9 +7,22 @@
 .font-active-color{
 	color: #49DBFB;
 }
-/*默认灰色*/
+
+
+/*自定义样式*/
 .color999{
 	color: #999999;
+}
+
+.paddingtop36{
+   padding: 36rpx 0;
+}
+
+.colorgrey{
+	color: #70788C;
+}
+.colorgreen{
+	color: #36B378;
 }
 /* 背景颜色 */
 .bg-color{

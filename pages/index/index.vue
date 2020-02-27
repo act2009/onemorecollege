@@ -5,14 +5,14 @@
 		<IndexSwiper></IndexSwiper>
 		<Icons></Icons>
 		
-		<Card cardTitle="推荐课程"></Card>
+		<Card cardTitle="推荐课程" goName="查看更多"></Card>
 		<SingleCommodityList></SingleCommodityList>
-		<Card cardTitle="专题"></Card>
+		<Card cardTitle="专题" goName="查看更多"></Card>
          <ThematicList></ThematicList>
-		<Card cardTitle="新上好课"></Card>
+		<Card cardTitle="新上好课" goName="查看更多"></Card>
 		<SingleCommodityList></SingleCommodityList>
 		
-		<Card cardTitle="另一个课程样式"></Card>
+		<Card cardTitle="另一个课程样式" goName="查看更多"></Card>
 			<CommondityList></CommondityList>
 	</view>
 	

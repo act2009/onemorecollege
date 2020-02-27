@@ -1,1 +1,0 @@
-<view class="intro"><block wx:for="{{dataList}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view class="intro-content"><view class="intro-img"><image class="intro-img" src="{{item.imgUrl}}" mode></image></view><text class="intro-title">{{item.name}}</text><text class="intro-description color999">{{item.description}}</text></view></block></view>
