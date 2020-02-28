@@ -1,13 +1,15 @@
 <template>
 <!-- 	查看更多-课程全部评论 -->
-	<view class="coursecommentsList">
-
+	<view class="commentsList">
+     <view class="comments-content">
+		 
+	
 	<Card
 	cardTitle="全部评论"
 	fontSize="30rpx"
-	paddingData="0"></Card>
-		<Comments :dataList="CommentsList"></Comments>
-
+	paddingData="30rpx 0"></Card>
+		<Comments :dataList="commentsList"></Comments>
+ </view>
 	</view>
 </template>
 
@@ -17,7 +19,7 @@
 	export default{
 		data(){
 			return{
-				CommentsList:[
+				commentsList:[
 					{
 						id:1,
 						userid:256,

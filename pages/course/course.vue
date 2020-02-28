@@ -43,6 +43,8 @@
 	import CourseItems  from '@/components/course/CourseItems.vue'
 	import Card         from '@/components/common/Card.vue'
 	import Comments     from '@/components/common/Comments.vue'
+	
+	import VideoList from "videolist.vue";
 
 	
 

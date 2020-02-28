@@ -8,7 +8,7 @@
 		 >
 		 {{cardTitle}}</view>
 		<view class="card-nav" 
-		 :style="'padding:'+paddingData+';'" >{{goName}}</view>
+		 :style="'padding:'+paddingData+';'" to="/course/">{{goName}}</view>
 	</view>
 </template>
 
@@ -41,15 +41,17 @@
 
 <style scoped>
 	.card{
+		width: 100%;
 		display: flex;
 		flex-direction: row;
 		align-items: center;
 		
 	}
 	.card-name{
-
+        width: 80%;
 	}
 	.card-nav{
+		align-self: baseline;
         margin-left: auto;
 		margin-right: 0;
 		font-size: 28rpx;
