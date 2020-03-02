@@ -15,7 +15,7 @@
 						id:1,
 						imgUrl:"../../static/img/SingleCommodity1.png",
 						name:"2020年投资生猪产业策略10讲",
-						cprice:"99.00",
+						cprice:"0",
 						oprice:"199.00",
 					    purchased:653,
 						description:"1让你抓住未来3年最赚钱机会的一堂课"

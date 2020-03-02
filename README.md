@@ -105,4 +105,13 @@ mobile端分析
          名称：Commonent
          封装：是
          描述：从 /common/Comments 加载
-		 
+
+
+课程页：
+
+
+
+1.我的
+         名称：collection
+         封装：否
+         描述：引入SingleCommodity

@@ -7,7 +7,7 @@
 			}
 		}
 	    ,{
-            "path" : "pages/course/videolist",
+            "path" : "pages/my/collection",
             "style" : {}
         }
         ,{
@@ -43,7 +43,7 @@
 					"text": "分类"
 				},
 				{
-					"pagePath": "pages/course/videolist",
+					"pagePath": "pages/my/collection",
 					"iconPath": "",
 					"selectedIconPath": "",
 					"text": "测试"

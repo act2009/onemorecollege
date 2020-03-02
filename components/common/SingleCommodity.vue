@@ -12,11 +12,26 @@
 			<view class="right-title">{{item.name}}</view>
 			<view class="right-desc color999">{{item.description}}</view>
 			<view class="right-bottom">
-				<text class="bottom-left color999">{{item.purchased}}人开通</text>
-				<text class="bottom-right">
+				<text class="bottom-left color999">
+					<view v-if="item.cprice==0">
+				
+					</view>
 					
+					<view v-else>
+					{{item.purchased}}人开通
+					</view>
+					
+				</text>
+				
+				<text class="bottom-right">
+					<view v-if="item.cprice==0">
+						<text class="cprice">免费</text>
+					</view>
+					<view v-else>
 					<text class="oprice color999">¥{{item.oprice}}</text>
-					<text class="cprice">¥{{item.cprice}}</text>
+					<text class="cprice">¥{{item.cprice}}</text>	
+					</view>
+
 
 					</text>
 			</view>
