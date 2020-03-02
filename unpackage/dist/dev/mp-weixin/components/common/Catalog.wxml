@@ -1,1 +1,0 @@
-<view class="catalog data-v-1c7211e3"><block wx:for="{{dataList}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view class="catalog-item data-v-1c7211e3"><text class="item-type data-v-1c7211e3">视频</text><text class="item-name data-v-1c7211e3">{{item.name}}</text><text class="item-trailer data-v-1c7211e3">{{item.visible}}</text></view></block></view>

@@ -1,9 +1,9 @@
 
-.card.data-v-2c4f5f36{
+.card.data-v-0ad1111a{
+		width: 100%;
 		display: -webkit-box;
 		display: -webkit-flex;
 		display: flex;
-		padding: 20rpx 0;
 		-webkit-box-orient: horizontal;
 		-webkit-box-direction: normal;
 		-webkit-flex-direction: row;
@@ -12,15 +12,14 @@
 		-webkit-align-items: center;
 		        align-items: center;
 }
-.card-name.data-v-2c4f5f36{
-		padding:20rpx 0;
-		font-size: 32rpx;
-		font-weight: bold;
+.card-name.data-v-0ad1111a{
+        width: 80%;
 }
-.card-nav.data-v-2c4f5f36{
+.card-nav.data-v-0ad1111a{
+		-webkit-align-self: baseline;
+		        align-self: baseline;
         margin-left: auto;
 		margin-right: 0;
-		padding:20rpx 0;
 		font-size: 28rpx;
 		color: #999999;
 }

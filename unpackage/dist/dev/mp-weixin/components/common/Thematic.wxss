@@ -1,12 +1,12 @@
 
-.thematic.data-v-41cab14f{
+.thematic.data-v-7ace5d9a{
 /* 		display: flex;
 		flex-wrap: wrap;
 		align-items: center; */
 }
-.thematic-item.data-v-41cab14f{
+.thematic-item.data-v-7ace5d9a{
 }
-.thematicitem-img.data-v-41cab14f{
+.thematicitem-img.data-v-7ace5d9a{
 		width: 100%;
 		height: 350rpx;
 		padding-bottom: 10rpx;

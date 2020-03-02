@@ -2,11 +2,8 @@
 	<!--video play-->
     <view>
         <view class="uni-padding-wrap uni-common-mt">
-            <view
-			v-for="(item,index) in dataList"
-			:key="index"
-			>
-                <video id="myVideo" :src="item.videoSrc"
+            <view>
+                <video id="myVideo" :src="videoSrc"
                     @error="videoErrorCallback" controls></video>
             </view>
 
@@ -19,7 +16,7 @@
 <script>
 	export default {
 		props:{
-			dataList:Array
+			videoSrc:String
 		},
 	    data() {
 	        return {

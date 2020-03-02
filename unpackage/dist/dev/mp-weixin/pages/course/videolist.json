@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "video": "/components/course/Video",
+    "card": "/components/common/Card"
+  }
+}
