@@ -44,9 +44,9 @@
 				},
 				{
 					"pagePath": "pages/my/collection",
-					"iconPath": "",
-					"selectedIconPath": "",
-					"text": "测试"
+					"iconPath": "static/tabbar/collection.png",
+					"selectedIconPath": "static/tabbar/collectionSelected.png",
+					"text": "课程"
 				},
 				{
 					"pagePath": "pages/my/my",
