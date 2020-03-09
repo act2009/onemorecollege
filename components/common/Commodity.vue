@@ -33,7 +33,8 @@
 	    justify-content: space-between;
 	}
 	.commondity-item{
-		width: 45%;
+		width: 47%;
+		height: 400rpx;
 		padding-bottom: 20rpx;
 
 	}
